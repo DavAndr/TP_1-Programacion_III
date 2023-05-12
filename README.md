@@ -16,8 +16,8 @@
 >This programm will read out a PDF, for this it will ask of the user to input the name and location of the PDF.
 ---
 >## **Documentation**
->- [gTTS documentation](https://pypi.org/project/gTTS/)
->- [PyPDF documentation](https://pypi.org/project/pypdf/)
+>- [gTTS documentation](http://gtts.readthedocs.org/)
+>- [PyPDF documentation](https://pypdf.readthedocs.io/en/stable/)
 ---
 >## **Developers**
 >- David Andrada
