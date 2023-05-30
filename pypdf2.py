@@ -1,6 +1,6 @@
 import PyPDF2
 
-pdf = open("velas.pdf", "rb")
+pdf = open("Velas.pdf", "rb")
 
 reader = PyPDF2.PdfReader(pdf)
 
